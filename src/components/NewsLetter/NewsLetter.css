@@ -1,0 +1,53 @@
+@keyframes gradient-border {
+  0% {
+    border-image-source: linear-gradient(
+      0deg,
+      #6a0dad,
+      #800080,
+      #9b59b6,
+      #6a0dad
+    );
+  }
+  25% {
+    border-image-source: linear-gradient(
+      90deg,
+      #6a0dad,
+      #800080,
+      #9b59b6,
+      #6a0dad
+    );
+  }
+  50% {
+    border-image-source: linear-gradient(
+      180deg,
+      #6a0dad,
+      #800080,
+      #9b59b6,
+      #6a0dad
+    );
+  }
+  75% {
+    border-image-source: linear-gradient(
+      270deg,
+      #6a0dad,
+      #800080,
+      #9b59b6,
+      #6a0dad
+    );
+  }
+  100% {
+    border-image-source: linear-gradient(
+      0deg,
+      #6a0dad,
+      #800080,
+      #9b59b6,
+      #6a0dad
+    );
+  }
+}
+
+.border-2 {
+  animation: gradient-border 3s linear infinite;
+  border-image: linear-gradient(0deg, #6a0dad, #800080, #9b59b6, #6a0dad);
+  border-image-slice: 1;
+}

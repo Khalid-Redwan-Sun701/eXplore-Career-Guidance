@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/JFFrqmX1/premium-photo-1661596640509-721f4c2e39ee.jpg",
+    "service_name": "Career Counseling Sessions",
+    "category": "online",
+    "description": "One-on-one career guidance to help you choose the right path.",
+    "pricing": "50",
+    "duration": "05-12-24 5-6pm",
+    "counselor": "John Doe",
+    "rating": "4.8",
+    "full_description": "Hi, I am John Doe! 🎓 Need career counseling? You've come to the right place! 🚀 Whether you're a student, job seeker, or professional looking for guidance, I am here to help. We will explore your skills, interests, and career aspirations to create a roadmap for success. 🌟 Get expert advice on job opportunities, industry trends, and career planning. Let's work together to shape your future! Book a session today! 📅"
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/JRTHL3KG/company-representatives-reading-applicant-resume-hiring-1163-4684.jpg",
+    "service_name": "Resume Review",
+    "category": "offline",
+    "description": "Get expert feedback to improve your resume for job success.",
+    "pricing": "30",
+    "duration": "Available on request",
+    "counselor": "Jane Smith",
+    "rating": "4.7",
+    "full_description": "Hi, I am Jane Smith! 📝 Your resume is your first impression—let’s make it count! 🚀 I’ll review your resume, enhance its structure, and highlight key skills to attract recruiters. 💼 Whether you're applying for your first job or making a career change, I will ensure your resume stands out. 🌟 Don’t miss out on job opportunities due to a weak resume. Book a session today and secure your dream job! 🎯"
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/C3n4ZgP5/photo-1459499362902-55a20553e082.jpgheadhunters-interviewing-female-job-candidate-1163-4674.jpg",
+    "service_name": "Mock Interviews",
+    "category": "group",
+    "description": "Practice interviews and receive expert feedback to improve.",
+    "pricing": "40",
+    "duration": "10-12-24 3-4pm",
+    "counselor": "Mark Johnson",
+    "rating": "4.9",
+    "full_description": "Hi, I am Mark Johnson! 🎤 Nervous about job interviews? Don’t worry! My mock interview sessions will help you gain confidence, improve your answers, and tackle tricky questions with ease. 🚀 Get real-time feedback on your communication, body language, and technical responses. 🌟 Let’s ace your next interview and secure your dream job! Book your mock interview session today! 💼"
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/HTHk0DB8/photo-1616469829581-73993eb86b02.jpg",
+    "service_name": "LinkedIn Optimization",
+    "category": "online",
+    "description": "Enhance your LinkedIn profile to attract recruiters easily.",
+    "pricing": "35",
+    "duration": "Available on request",
+    "counselor": "Sarah Lee",
+    "rating": "4.6",
+    "full_description": "Hi, I am Sarah Lee! 🌐 Want to get noticed by top recruiters on LinkedIn? I will optimize your profile, refine your bio, and teach you the best networking strategies to grow professionally. 🚀 Stand out from the crowd and make meaningful connections that can boost your career. 🌟 Let's transform your LinkedIn profile today! 💼"
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/0R5xyCGd/photo-1552664730-d307ca884978.jpg",
+    "service_name": "Job Search Strategies",
+    "category": "online",
+    "description": "Learn effective job search methods to find the right role.",
+    "pricing": "45",
+    "duration": "15-12-24 2-3pm",
+    "counselor": "Michael Brown",
+    "rating": "4.8",
+    "full_description": "Hi, I am Michael Brown! 🔍 Struggling to find the right job? I’ll guide you through proven job search strategies, from crafting applications to networking with the right people. 🚀 Get expert insights on job boards, company research, and the best ways to land interviews. 🌟 Take the stress out of job hunting—book a session today! 💼"
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/KzpWVbNQ/istockphoto-1802593567-612x612.webp",
+    "service_name": "Career Change Guidance",
+    "category": "online",
+    "description": "Get expert advice to transition smoothly into a new career.",
+    "pricing": "55",
+    "duration": "Available on request",
+    "counselor": "Emily Davis",
+    "rating": "4.9",
+    "full_description": "Hi, I am Emily Davis! 🔄 Thinking about switching careers? I can help you navigate the transition smoothly. 🚀 Whether you're changing industries, reskilling, or exploring new opportunities, I will provide guidance to make the shift easier. 🌟 Don't let fear hold you back—let’s build a strategy for your successful career change today! 💼"
+  },
+  {
+    "id": 7,
+    "image": "https://i.ibb.co.com/TDL67q67/istockphoto-1498442212-612x612.jpg",
+    "service_name": "Salary Negotiation Tricks",
+    "category": "online",
+    "description": "Master negotiation techniques to secure a better salary.",
+    "pricing": "60",
+    "duration": "20-12-24 6-7pm",
+    "counselor": "James Wilson",
+    "rating": "4.7",
+    "full_description": "Hi, I am James Wilson! 💰 Want to earn what you truly deserve? I’ll teach you salary negotiation tactics to boost your earnings with confidence. 🚀 Learn the right words, body language, and market research techniques to negotiate effectively. 🌟 Stop settling—get the paycheck you deserve! Book a session today! 💼"
+  },
+  {
+    "id": 8,
+    "image": "https://i.ibb.co.com/TMrNSckN/istockphoto-1322139094-612x612.jpg",
+    "service_name": "Freelancing Advice",
+    "category": "online",
+    "description": "Learn how to build a successful freelancing career today.",
+    "pricing": "40",
+    "duration": "Available on request",
+    "counselor": "Sophia Martinez",
+    "rating": "4.8",
+    "full_description": "Hi, I am Sophia Martinez! 💻 Thinking about freelancing? Let me guide you through the process of becoming a successful freelancer. 🚀 I’ll help you find high-paying clients, build a strong portfolio, and manage your work efficiently. 🌟 Book a session today and start earning on your own terms! 💰"
+  },
+  {
+    "id": 9,
+    "image": "https://i.ibb.co.com/RTqJwdgf/istockphoto-973111990-612x612.jpg",
+    "service_name": "Personal Branding Workshop",
+    "category": "group",
+    "description": "Develop a strong personal brand to stand out in your field.",
+    "pricing": "70",
+    "duration": "25-12-24 4-6pm",
+    "counselor": "Daniel Roberts",
+    "rating": "4.9",
+    "full_description": "Hi, I am Daniel Roberts! 🌟 Want to build a powerful personal brand? I'll help you create a strong online presence, craft a compelling story, and attract the right audience. 🚀 Let's make your brand unforgettable! 💼"
+  },
+  {
+    "id": 10,
+    "image": "https://i.ibb.co.com/tT7mStDT/istockphoto-1486287149-612x612.jpg",
+    "service_name": "Networking Strategies",
+    "category": "group",
+    "description": "Learn effective networking to build valuable career connections.",
+    "pricing": "50",
+    "duration": "30-12-24 5-6pm",
+    "counselor": "Olivia Thomas",
+    "rating": "4.6",
+    "full_description": "Hi, I am Olivia Thomas! 🤝 Want to expand your professional network? I’ll teach you proven strategies to connect with industry leaders, make meaningful connections, and unlock new career opportunities. 🚀 Networking is key to success—let’s build yours today! 🌟 Book a session now! 💼"
+  }
+]
