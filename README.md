@@ -2,6 +2,11 @@
 
 Welcome to **eXplore**, a modern platform dedicated to providing expert career guidance to individuals seeking clarity and direction in their professional journeys. Whether you're just starting out, considering a career change, or looking for insights into your industry, **eXplore** connects you with experienced professionals who can help guide your next steps. 🚀💼
 
+## 🚀 Live Site
+
+Check out the live version of **eXplore - Career Counseling Website** here:  
+👉 [**https://explore-career-guidance.surge.sh/**](https://explore-career-guidance.surge.sh/) 🌐✨
+
 ## Features ✨
 
 - **👩‍🏫 Expert Career Counselors**: Access advice from industry professionals in various fields.
